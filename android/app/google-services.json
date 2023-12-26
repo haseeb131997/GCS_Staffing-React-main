@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419172951020",
+    "project_id": "gcs-saffing",
+    "storage_bucket": "gcs-saffing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419172951020:android:c903ff244a6a415e9096c9",
+        "android_client_info": {
+          "package_name": "app.gcs.staffing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKC0b8FbybQFklmSTK9Oy76Gc3riqD9B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
